@@ -1,4 +1,4 @@
-# Methods and metrics: what each number means and how to defend it
+# Methods and metrics: what each number means
 
 Read this with the README. Each section: **what it is**, **how it is computed**, **why this choice**,
 **the strongest objection and the honest answer**.

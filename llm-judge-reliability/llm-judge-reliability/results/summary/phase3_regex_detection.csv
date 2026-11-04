@@ -1,0 +1,3 @@
+attack_set,detection_rate,note
+original wordings (regex written to match them),1.0,circular by construction
+10 hand-written paraphrases,0.0,0/10 caught

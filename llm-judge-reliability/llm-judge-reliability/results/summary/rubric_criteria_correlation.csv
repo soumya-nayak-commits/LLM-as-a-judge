@@ -1,0 +1,4 @@
+criterion,accuracy,instruction,helpfulness
+accuracy,1.0,0.72,0.71
+instruction,0.72,1.0,0.77
+helpfulness,0.71,0.77,1.0

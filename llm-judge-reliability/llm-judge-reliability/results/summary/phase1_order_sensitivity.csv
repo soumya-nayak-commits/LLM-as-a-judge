@@ -1,0 +1,9 @@
+metric,value,unit,source
+consistent_verdicts,134.0,of 300,project notes (Phase 1-2 write-up)
+hard_flips (model_a<->model_b),63.0,of 300,project notes (Phase 1-2 write-up)
+soft_flips (involve a tie),103.0,of 300,project notes (Phase 1-2 write-up)
+forced_choice_consistency,0.563,share,project notes (Phase 1-2 write-up)
+qwen_tie_rate,0.4,share of 300,project notes (Phase 1-2 write-up)
+human_tie_rate,0.19,share of 300,project notes (Phase 1-2 write-up)
+qwen_forced_picks_longer,0.69,"share, non-tie",project notes (Phase 1-2 write-up)
+human_picks_longer,0.745,"share, non-tie",project notes (Phase 1-2 write-up)

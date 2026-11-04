@@ -1,0 +1,8 @@
+judge,format,agreement_243_non_tie,agree_ci_lo,agree_ci_hi,attack_shift_score_points,flip_rate_direct_instruction,flip_ci_lo,flip_ci_hi,source
+pairwise plain (reference),pairwise,0.667,,,,0.51,,,project notes (Phase 1-2 write-up) / notebook output/markdown [153]
+rubric v1: accuracy only,pointwise,0.716,0.653,0.779,0.93,0.28,0.17,0.39,notebook output/markdown [166]
+rubric v3: accuracy,pointwise,0.724,0.664,0.786,0.8,0.2,0.11,0.29,notebook output/markdown [169]
+rubric v3: instruction-following,pointwise,0.695,0.636,0.755,1.19,0.42,0.32,0.53,notebook output/markdown [169]
+rubric v3: helpfulness,pointwise,0.77,0.721,0.82,1.38,0.45,0.32,0.56,notebook output/markdown [169]
+rubric v3: combined (equal-weight mean),pointwise,0.753,0.7,0.809,1.12,0.31,0.21,0.41,notebook output/markdown [169]
+always-longer baseline,reference,0.745,,,,,,,project notes (Phase 1-2 write-up)

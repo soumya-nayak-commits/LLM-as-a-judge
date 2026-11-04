@@ -1,0 +1,6 @@
+attack,shift_no_sanitizer,shift_sanitized,flip_no_sanitizer,flip_sanitized,attack_survives_sanitizer
+embedded_direct,5.35,4.59,0.38,0.31,0.85
+embedded_authority,6.02,5.67,0.44,0.41,0.88
+nocue_1,1.8,1.78,0.19,0.19,1.0
+nocue_2,0.74,0.74,0.09,0.09,1.0
+nocue_3,1.33,1.39,0.12,0.14,1.0

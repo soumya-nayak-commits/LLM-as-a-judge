@@ -1,0 +1,12 @@
+defense,attack,mean_shift,flip_rate,note,source
+plain,direct_instruction,7.44,0.51,,notebook output/markdown [153]
+warning,direct_instruction,7.04,0.5,diff vs plain -0.40 (CI -0.99 to +0.19),notebook output/markdown [153]
+sanitizer,direct_instruction,0.37,0.03,attack removed in 97%,notebook output/markdown [157]
+plain,fake_authority,6.69,0.51,,notebook output/markdown [153]
+warning,fake_authority,6.1,0.46,diff vs plain -0.59 (CI -0.98 to -0.18),notebook output/markdown [153]
+sanitizer,fake_authority,0.37,0.03,attack removed in 97%,notebook output/markdown [157]
+plain,neutral_control,1.13,0.1,,notebook output/markdown [153]
+warning,neutral_control,0.9,0.11,diff vs plain -0.23 (CI -0.45 to +0.02),notebook output/markdown [153]
+sanitizer,neutral_control,0.1,0.01,,notebook output/markdown [157]
+plain,reworded_10_pooled,2.42,0.205,,notebook output/markdown [157]
+sanitizer,reworded_10_pooled,0.19,0.019,shift CI +0.00 to +0.49,notebook output/markdown [157]

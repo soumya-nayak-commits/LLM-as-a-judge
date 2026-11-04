@@ -1,0 +1,13 @@
+numpy>=1.26
+pandas>=2.0
+tqdm
+datasets
+matplotlib
+# GPU run only (Colab / Kaggle T4):
+torch
+transformers>=4.44
+accelerate
+# optional, for 4-bit 7B/8B judges (not needed for Qwen2.5-3B in fp16):
+# bitsandbytes
+# tests:
+pytest

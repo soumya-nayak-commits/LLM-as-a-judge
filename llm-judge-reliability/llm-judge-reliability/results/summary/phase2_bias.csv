@@ -1,0 +1,9 @@
+test,condition,n_pairs,metric,estimate,ci_lo,ci_hi,extra,source
+verbosity_generic_filler(266 chars),pad_loser,243.0,mean_margin_shift,-0.568,-0.922,-0.22,flip_to_padded=0.029,project notes (Phase 1-2 write-up)
+verbosity_generic_filler(266 chars),pad_winner,243.0,mean_margin_shift,-0.39,-0.692,-0.062,flip_to_padded=0.058,project notes (Phase 1-2 write-up)
+verbosity_recap_filler(<=400 chars),pad_loser,243.0,mean_margin_shift,0.235,-0.093,0.586,flip_to_padded~0.06,project notes (Phase 1-2 write-up)
+verbosity_recap_filler(<=400 chars),pad_winner,243.0,mean_margin_shift,-0.458,-0.847,-0.048,flip_to_padded~0.06,project notes (Phase 1-2 write-up)
+fluent_but_wrong(last number changed),all,63.0,mean_margin_shift,-1.023,-1.973,0.094,"picked winner 47/63 before, 42/63 after; abandoned 6",project notes (Phase 1-2 write-up)
+fluent_but_wrong(last number changed),math,,mean_margin_shift,-1.41,,,category n not recorded,notebook output/markdown [122]
+fluent_but_wrong(last number changed),stem,,mean_margin_shift,-0.93,,,,project notes (Phase 1-2 write-up)
+fluent_but_wrong(last number changed),extraction,,mean_margin_shift,-0.76,,,,project notes (Phase 1-2 write-up)

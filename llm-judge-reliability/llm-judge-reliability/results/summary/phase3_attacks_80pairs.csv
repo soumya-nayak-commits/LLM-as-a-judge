@@ -1,0 +1,5 @@
+attack,mean_shift,shift_ci_lo,shift_ci_hi,flip_rate,flip_ci_lo,flip_ci_hi,source
+neutral_control,1.126,0.48,1.762,0.1,,,run output pasted during the project
+direct_instruction,7.44,6.102,8.722,0.512,,,run output pasted during the project
+fake_authority,6.691,5.45,7.84,0.512,,,run output pasted during the project
+reworded_10_pooled,2.416,1.86,2.927,0.205,0.139,0.267,run output pasted during the project

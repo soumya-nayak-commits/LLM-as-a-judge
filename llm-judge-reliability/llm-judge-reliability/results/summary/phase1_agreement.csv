@@ -1,0 +1,17 @@
+setting,method,n,agreement,ci_lo,ci_hi,source
+pilot_100_with_ties,Qwen2.5-3B original order,100,0.4,0.301,0.51,"notebook output/markdown [38,40]"
+pilot_100_with_ties,Always longer,100,0.61,,,run output pasted during the project
+pilot_100_with_ties,Always model_b,100,0.52,,,run output pasted during the project
+pilot_100_with_ties,Random guess (3-way),100,0.335,,,run output pasted during the project
+all_300_with_ties,GPT-4 (gpt4_pair table),300,0.713,0.653,0.771,project notes (Phase 1-2 write-up)
+all_300_with_ties,Qwen original order,300,0.427,,,project notes (Phase 1-2 write-up)
+all_300_with_ties,Qwen swapped order,300,0.397,,,project notes (Phase 1-2 write-up)
+all_300_with_ties,Qwen order-averaged,300,0.437,,,project notes (Phase 1-2 write-up)
+all_300_with_ties,Always longer,300,0.603,,,project notes (Phase 1-2 write-up)
+all_300_with_ties,Always model_b,300,0.447,,,project notes (Phase 1-2 write-up)
+non_tie_243,Qwen forced choice (original),243,0.7,0.644,0.751,project notes (Phase 1-2 write-up)
+non_tie_243,Qwen forced choice (swapped),243,0.63,,,project notes (Phase 1-2 write-up)
+non_tie_243,Qwen forced choice (order-averaged),243,0.667,,,project notes (Phase 1-2 write-up)
+non_tie_243,Always longer,243,0.745,,,project notes (Phase 1-2 write-up)
+non_tie_243,Always model_b,243,0.551,,,project notes (Phase 1-2 write-up)
+gpt4_own_non_tie_verdicts,GPT-4 (its ties excluded; NOT like-for-like),208,0.885,,,project notes (Phase 1-2 write-up)

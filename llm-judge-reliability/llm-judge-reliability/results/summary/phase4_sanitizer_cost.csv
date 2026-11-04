@@ -1,0 +1,4 @@
+metric,value,source
+clean pairs altered by sanitizer (false positives),10/80 = 12.5%,notebook output/markdown [157]
+"pooled flip rate under adaptive attacks, sanitized",0.228 (CI 0.162 to 0.285),notebook output/markdown [160]
+"flip rate under OWN attacks, sanitized","0.03 original, 0.019 reworded",notebook output/markdown [157]
